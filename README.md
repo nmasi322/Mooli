@@ -15,3 +15,6 @@ This project will contain movie listings from all over the world starting from N
 - authentication & authorization flow(sign in, sign up)
 - watchlist 
 
+
+
+
